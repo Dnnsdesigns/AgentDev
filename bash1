@@ -1,0 +1,5 @@
+mkdir AgentDev
+cd AgentDev
+mkdir src
+touch src/main.py
+touch README.md
